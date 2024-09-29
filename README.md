@@ -49,6 +49,8 @@ This project involves cleaning and analyzing Zomato restaurant data in Bangalore
 ## PREVIEW
 ![image](https://github.com/user-attachments/assets/e7bf40b9-28d0-4895-be05-96cc851dda2e)
 ![image](https://github.com/user-attachments/assets/fe9997ec-2f45-4664-ad22-f222c2f7eef0)
+![image](https://github.com/user-attachments/assets/0433960d-544b-4755-9f69-1276e946eeb2)
+
 
 
 
